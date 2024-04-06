@@ -1,4 +1,4 @@
-# Dictionary Password Cracker - Frank Grimmer 2024
+# Caesar Cipher Encryption/Decryption Tool - Frank Grimmer 2024
 
 # Defines the characters for encryption/decryption.
 letters = "abcdefghijklmnopqrstuvwxyz"
