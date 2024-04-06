@@ -23,7 +23,7 @@ This tool allows you to encrypt and decrypt messages using a Caesar cipher. It p
    python caesar_cipher.py
 
 ## Example
-```bash
+```
 $ python caesar_cipher.py
 
 Caesar Cipher Encryption/Decryption Tool - Frank Grimmer 2024
@@ -60,3 +60,8 @@ Menu:
 Enter your choice (1/2/3): 3
 
 Exiting program. Goodbye!
+```
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
